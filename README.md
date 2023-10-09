@@ -86,20 +86,20 @@
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
 
-  <a href="https://linkedin.com/in/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.linkedin.com/in/farjana-akter-354742108/" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
   </a>
 
-  <a href="https://fb.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.facebook.com/farjana.akter.75457" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" style="max-width: 100%;">
   </a>
 
-  <a href="https://www.youtube.com/c/projuktiplus" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" style="max-width: 100%;">
+  <a href="https://twitter.com/Fana_775" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Twitter-0F1419?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="max-width: 100%;">
   </a>
 
-  <a href="https://hashnode.com/nayemspecial" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&amp;logo=hashnode&amp;logoColor=white" alt="Hashnode" style="max-width: 100%;">
+  <a href="https://gitlab.com/Farjana0313" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/GitLab-E24329?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" style="max-width: 100%;">
   </a>
   
 </p>
