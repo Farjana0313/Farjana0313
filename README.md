@@ -65,11 +65,11 @@
 
 
 <p align="left">
-  <a href="https://github.com/nayemspecial">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="nayemspecial's GitHub Stats" />
+  <a href="https://github.com/Farjana0313">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="farjana0313's GitHub Stats" />
   </a>
-  <a href="https://github.com/nayemspecial">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact" alt="nayemspecial's Top Languages" />
+  <a href="https://github.com/Farjana0313">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact" alt="farjana0313's Top Languages" />
   </a>
 </p>
 
