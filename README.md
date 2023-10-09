@@ -64,7 +64,14 @@
 </p>
 
 
-
+<p align="left">
+  <a href="https://github.com/Farjana0313">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=farjana0313&show_icons=true&hide=issues" alt="Farjana0313's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Farjana0313">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjana0313&layout=compact" alt="Farjana0313's Top Languages" />
+  </a>
+</p>
 
 
 
