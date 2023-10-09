@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Next-000000?style=flat-square&amp;logo=next&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Next-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
