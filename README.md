@@ -86,10 +86,9 @@
 
 - 🔭 I’m currently working as a Web Developer at [Devsstream Limited](https://devsstream.com/) 
 - 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
-- 🌱 I’m currently learning **Vue.js**
-- 👯 I’m looking to collaborate on **DoctorApps**
-- 👨‍💻 All of my repositories are available at Github
-- 📝 I regularly write articles on projuktiplus.net and topit24.com
+- 🌱 I’m currently learning **Redux**
+- 👯 I’m looking to collaborate on **Eccommerce**
+- 👨‍💻 All of my repositories are available at Github & GitLab
 - 📫 How to reach me **farjanaakter178@gmail.com**
 
 <h4 align="left">Stay connected with me</h4>
