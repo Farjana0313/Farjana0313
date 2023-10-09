@@ -64,14 +64,6 @@
 </p>
 
 
-<p align="left">
-  <a href="https://github.com/Farjana0313">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayemspecial&show_icons=true&hide=issues" alt="farjana0313's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Farjana0313">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayemspecial&layout=compact" alt="farjana0313's Top Languages" />
-  </a>
-</p>
 
 
 
@@ -82,7 +74,7 @@
 - 👯 I’m looking to collaborate on **DoctorApps**
 - 👨‍💻 All of my repositories are available at Github
 - 📝 I regularly write articles on projuktiplus.net and topit24.com
-- 📫 How to reach me **nayemspecial@gmail.com**
+- 📫 How to reach me **farjanaakter178@gmail.com**
 
 <h4 align="left">Stay connected with me</h4>
 <p dir="auto">
