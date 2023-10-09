@@ -85,7 +85,6 @@
 
 
 - 🔭 I’m currently working as a Web Developer at [Devsstream Limited](https://devsstream.com/) 
-- 💬 Ask me about **Laravel**, **WordPress Theme Development** and **Elementor Page Buider**
 - 🌱 I’m currently learning **Redux**
 - 👯 I’m looking to collaborate on **Eccommerce**
 - 👨‍💻 All of my repositories are available at Github & GitLab
