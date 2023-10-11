@@ -1,7 +1,9 @@
 ## Hey! 👋 Happy to see you ! 
 <p><span style="font-size:26px; font-weight:300;">I'm Farjana Akter.</span> <span>A passionate  <b>Web</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span> </p>
 <br />
+
 ## Technology That I Know
+
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
@@ -91,8 +93,8 @@
 - 📫 How to reach me **farjanaakter178@gmail.com**
 
 <br />
+
 ## Connect With Me
-<br />
 <p dir="auto">
 
   <a href="https://www.linkedin.com/in/farjana-akter-354742108/" target="_blank" rel="noopener noreferrer nofollow">
