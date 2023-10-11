@@ -86,10 +86,10 @@
 
 
 
-- 🔭 I’m currently working as a Web Developer at [Devsstream Limited](https://devsstream.com/) 
-- 🌱 I’m currently learning **Redux**
+- 🔭 I’m currently working as a Web Developer at [DevsStream Limited](https://devsstream.com/) 
+- 🌱 I’m currently learning **Redux and Next Js**
 - 👯 I’m looking to collaborate on **Eccommerce**
-- 👨‍💻 All of my repositories are available at Github & GitLab
+- 👨‍💻 All of my repositories are available at [Github](https://github.com/Farjana0313) & [GitLab](https://gitlab.com/Farjana0313)
 - 📫 How to reach me **farjanaakter178@gmail.com**
 
 <br />
