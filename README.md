@@ -92,7 +92,10 @@
 - 👨‍💻 All of my repositories are available at Github & GitLab
 - 📫 How to reach me **farjanaakter178@gmail.com**
 
-## Technology That I Know
+<br />
+
+## Connect With Me
+<br />
 <p dir="auto">
 
   <a href="https://www.linkedin.com/in/farjana-akter-354742108/" target="_blank" rel="noopener noreferrer nofollow">
