@@ -1,7 +1,6 @@
 ## Hey! 👋 Happy to see you ! 
 <p><span style="font-size:26px; font-weight:300;">I'm Farjana Akter.</span> <span>A passionate  <b>Web</b> Developer. Let's build amazing things togeter. Enjoy your journey on Github! </span> </p>
 <br />
-
 ## Technology That I Know
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/">
@@ -85,7 +84,6 @@
 </p>
 
 
-
 - 🔭 I’m currently working as a Web Developer at [DevsStream Limited](https://devsstream.com/) 
 - 🌱 I’m currently learning **Redux and Next Js**
 - 👯 I’m looking to collaborate on **Eccommerce**
@@ -93,7 +91,6 @@
 - 📫 How to reach me **farjanaakter178@gmail.com**
 
 <br />
-
 ## Connect With Me
 <br />
 <p dir="auto">
